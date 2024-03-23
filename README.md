@@ -25,6 +25,23 @@ conda create -p venv python==3.10 -y
 source activate venv/
 
 ```
+```
+model
+https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 
+```
+llama-2-7b-chat.ggmlv3.q2_K.bin
+2.87 GB
 
+llama-2-7b-chat.ggmlv3.q3_K_L.bin
+3.6 GB
 
+llama-2-7b-chat.ggmlv3.q3_K_M.bin
+3.28 GB
+
+llama-2-7b-chat.ggmlv3.q3_K_S.bin
+2.95 GB
+
+llama-2-7b-chat.ggmlv3.q4_0.bin
+3.79 GB
+```
